@@ -1,7 +1,7 @@
-# Optimizing Retail Operations and Inventory Management for a Small-Scale RCM Business Using Real-Time Data Analytics
+# Optimizing Retail Operations and Inventory Management for a Small-Scale Business Using Real-Time Data Analytics
 
 ### Background: 
-The retail business operates under the RCM model, dealing with a diverse inventory of household products. Key challenges include discrepancies between physical stock and POS records, inefficient inventory replenishment cycles, untracked sales trends, and underutilization of sales data for strategic decision-making. Additionally, cash flow constraints and lack of insights into customer purchasing behavior are impeding profitability and operational efficiency.
+The retail business operates under the retail chain model, dealing with a diverse inventory of household products. Key challenges include discrepancies between physical stock and POS records, inefficient inventory replenishment cycles, untracked sales trends, and underutilization of sales data for strategic decision-making. Additionally, cash flow constraints and lack of insights into customer purchasing behavior are impeding profitability and operational efficiency.
 
 ### Objective: 
 The goal is to develop a real-time data-driven solution to optimize inventory management, streamline operations, and improve decision-making. This will involve analyzing historical sales and purchase data, predicting demand trends, and automating inventory updates to minimize discrepancies. Furthermore, the project aims to enhance financial planning by monitoring cash flow, sales performance, and profitability.
