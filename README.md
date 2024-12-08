@@ -30,6 +30,75 @@ The goal is to develop a real-time data-driven solution to optimize inventory ma
 - A dynamic dashboard for inventory and sales performance tracking.
 - A comprehensive report highlighting business insights and strategies for operational improvements.
 
+  ## Technologies Used
+- **Python**: For data processing, analysis, and automation.
+  - Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `pyodbc`, etc.
+- **SQL**: For data extraction, processing, and storing.
+  - Database: Microsoft SQL Server
+- **Power BI**: For data visualization and creating dashboards.
+- **VS Code / Jupyter Notebooks**: Development environment and notebooks for data analysis.
+
+## Project Structure
+This project is organized into the following directory structure:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retail Optimization Project Structure</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        pre {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 14px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            margin: 20px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Retail Optimization Project Structure</h1>
+    <pre>
+retail_optimization_project/
+├── data/                  # Data folder containing raw and processed files
+│   ├── raw/              # Raw input files (Excel, CSV)
+│   ├── processed/        # Processed and cleaned data files
+├── notebooks/            # Jupyter notebooks for data exploration, analysis, and visualization
+├── src/                  # Python source code
+│   ├── data_processing.py  # Data cleaning, transformation functions
+│   ├── sql_integration.py  # SQL integration functions (inserting and fetching data)
+│   └── analysis.py        # Core analysis logic (business logic, metrics calculations)
+├── reports/              # Reports and visualizations generated from the analysis
+│   ├── visualizations/    # Exported visualizations from Power BI
+│   └── final_report.pdf   # Final report documentation with results
+├── requirements.txt      # Python dependencies required for the project
+└── .gitignore            # Specifies files and folders to be ignored by Git
+    </pre>
+</body>
+</html>
+
+
 ### Impact: 
 The project will provide actionable insights to enhance profitability, streamline inventory operations, and improve customer satisfaction. By leveraging data science techniques, the business can achieve better financial management and long-term sustainability.
 
