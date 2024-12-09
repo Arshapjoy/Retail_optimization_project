@@ -38,45 +38,7 @@ The goal is to develop a real-time data-driven solution to optimize inventory ma
 - **Power BI**: For data visualization and creating dashboards.
 - **VS Code / Jupyter Notebooks**: Development environment and notebooks for data analysis.
 
-## Project Structure
-This project is organized into the following directory structure:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Retail Optimization Project Structure</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        pre {
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            font-size: 14px;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-            margin: 20px 0;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 8px;
-        }
-    </style>
-</head>
+
 <body>
     <h1>Retail Optimization Project Structure</h1>
     <pre>
