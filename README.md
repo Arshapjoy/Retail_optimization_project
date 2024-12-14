@@ -30,7 +30,7 @@ The goal is to develop a real-time data-driven solution to optimize inventory ma
 - A dynamic dashboard for inventory and sales performance tracking.
 - A comprehensive report highlighting business insights and strategies for operational improvements.
 
-  ## Technologies Used
+  ## Technologies to be Used
 - **Python**: For data processing, analysis, and automation.
   - Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `pyodbc`, etc.
 - **SQL**: For data extraction, processing, and storing.
